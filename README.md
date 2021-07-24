@@ -12,9 +12,37 @@ Inspired by the health problems I had witnessed across the under-represented gro
 
 This project is a web app which which can be a good mate for you to allow early recognitions to risk-survival diseases. Health can be studied on own through the user inputs with the predictions determined from your vitals data. This would provide you with the feasibility of being self independent when there are no provisions to doctors around in the remote places.
 
+## DATASETS USED
+
+- DIABETES DATASET (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+- BREAST CANCER DATASET (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+- HEART DISEASE DATASET (https://www.kaggle.com/ronitf/heart-disease-uci)
+- CHRONIC KIDNEY DISEASE DATASET (https://www.kaggle.com/mansoordaku/ckdisease)
+- LIVER DATASET (https://www.kaggle.com/uciml/indian-liver-patient-records)
+- MALARIA DATASET (https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
+- PNEUMONIA DATASET (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+
 ## WORK I HAD DONE
 
 I had built prediction models for diseases that are most prevalent in MENA regions and used html and css for front end development. Used the datasets from kaggles, worked on model and extracted .pkl files, deployed .pkl files on flask and created user interfaces using html.
+
+## MACHINE LEARNING MODELS WITH THEIR ACCURACIES
+
+- DIABETES (98.25%)
+- BREAST CANCER (98.25%)
+- HEART DISEASE (85.25%)
+- KIDNEY DISEASE (99%)
+- LIVER DISEASE (78%)
+- MALARIA (96%)
+- PNEUMONIA (95%)
+
+## ISSUE
+
+The issue which needs deserved attention is the health section. Especially in MENA regions, people had gone a toll to various diseases due to lack of proper facilities and no one to care for. Strong solution is needed to come out of this crisis and stay fit.
+
+## SOLUTION
+
+This App would be a best fit solution to protect people who are in despair and has no access to health infrastructure especially in remote regions.  It would also help in critical situations when they are confined from movements. Having this pocket doctor in hand can benefit them in knowing their one's health. People would gain confidence in knowing their next step and get relaxed to overcome regular docotr checkups.
 
 ## CHALLENGES INVOLVED
 

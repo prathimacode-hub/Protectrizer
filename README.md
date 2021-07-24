@@ -32,3 +32,8 @@ I had learnt about flask deployment, proc file, html integration with ML models,
 
 Due to less span of time, I couldn't explore more deeper into designing and front end part. I wanted to add a good design to front end and make it attractive. For now, it gets job done but would like to give good user designing experience to this app in future and make it more functional by adding more predictions that showcases versatility.
 
+## AUTHOR
+
+Prathima Kadari
+
+

@@ -1,5 +1,9 @@
 # Protectrizer - Study Your Health
 
+Note : I had uploaded a wrong video in devpost. I shall add the youtube link here. 
+
+Link to the demo : 
+
 ## AIM
 
 This is the web app which can be a good mate for you to allow early recognitions to risk-survival diseases. 

@@ -1,6 +1,6 @@
 # Protectrizer - Study Your Health
 
-Note : I had uploaded a wrong video in devpost. Here is the link 
+Note : I had uploaded a wrong video in devpost due to last minute hurry burry. So here goes the link.
 
 Link to the demo : https://youtu.be/1dRGT1ogyF0
 

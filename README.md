@@ -46,7 +46,7 @@ The issue which needs deserved attention is the health section. Especially in ME
 
 ## SOLUTION
 
-This App would be a best fit solution to protect people who are in despair and has no access to health infrastructure especially in remote regions.  It would also help in critical situations when they are confined from movements. Having this pocket doctor in hand can benefit them in knowing their one's health. People would gain confidence in knowing their next step and get relaxed to overcome regular docotr checkups.
+This App would be a best fit solution to protect people who are in despair and has no access to health infrastructure especially in remote regions.  It would also help in critical situations when they are confined from movements. Having this pocket doctor in hand can benefit them in knowing their one's health. People would gain confidence in knowing their next step and get relaxed to overcome regular doctor checkups.
 
 ## CHALLENGES INVOLVED
 

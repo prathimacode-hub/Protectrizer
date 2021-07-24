@@ -2,7 +2,7 @@
 
 Note : I had uploaded a wrong video in devpost. I shall add the youtube link here. 
 
-Link to the demo : 
+Link to the demo : https://youtu.be/1dRGT1ogyF0
 
 ## AIM
 

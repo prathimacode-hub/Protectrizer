@@ -1,6 +1,6 @@
 # Protectrizer - Study Your Health
 
-## Frost Hacks 2021
+## Hackable 2021
 
 Note : I had uploaded a wrong video in devpost due to last minute hurry burry. So here goes the link.
 
